@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @samuelfneumann
 - 👀 I’m interested in reinforcement learning
 - 💻 My language of choice is [Go](https://golang.org/)
+- 📖 I'm learning [Julia](https://docs.julialang.org/en/v1/) for reinforcement learning
 - 🌱 I’m currently working on my Master's at the University of Alberta, supervised by Adam White
 - 💞️ I’m looking to collaborate on open source Go projects and reinforcement learning research
 - 📫 How to reach me: sfneuman@ualberta.ca
