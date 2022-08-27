@@ -2,7 +2,7 @@
 - 👀 I’m interested in reinforcement learning
 - 💻 My languages of choice are [Go](https://golang.org/) and [Python](https://www.python.org)
 - 📖 I'm interested in learning more about Bayesian methods and Reinforcement Learning
-- 🌱 I’m currently working on my Master's at the University of Alberta, supervised by Adam White and accepted to start the PhD program in September 2022
+- 🌱 I’m currently working on my PhD at the University of Alberta, supervised by Adam White
 - 💞️ I’m looking to collaborate on reinforcement learning research and open source projects
 - 📫 How to reach me: sfneuman@ualberta.ca
 
