@@ -4,7 +4,7 @@
 - 📖 I'm interested in learning more about Bayesian methods and Reinforcement Learning
 - 🌱 I’m currently working on my PhD at the University of Alberta, supervised by Adam White
 - 💞️ I’m looking to collaborate on reinforcement learning research and open source projects
-- 📫 How to reach me: sfneuman@ualberta.ca
+- 📫 How to reach me: [website](https://samuelfneumann.github.io/)
 
 <!---
 samuelfneumann/samuelfneumann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
